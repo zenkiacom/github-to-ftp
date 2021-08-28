@@ -1,8 +1,8 @@
-<p align="center">
-  <img alt="FTP Deploy Action - Continuous integration for everyone" src="images/ftp-deploy-logo-small.png">
-</p>
+# FTP Deploy
 
 Automate deploying websites and more with this GitHub action.
+
+Credits: https://github.com/SamKirkland/FTP-Deploy-Action
 
 ---
 
