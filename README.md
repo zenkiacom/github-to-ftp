@@ -51,7 +51,7 @@ I strongly recommend you store your `password` as a secret.
 | `security`              | No       | `strict`                   | `loose`                                       | `strict`: Reject any connection which is not authorized with the list of supplied CAs. `loose`: Allow connection even when the domain is not certificate           |
 
 #### Exclude files
-Excludes files
+
 ```yml
 on: push
 name: 🚀 Deploy website on push
