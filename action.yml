@@ -1,4 +1,4 @@
-name: "FTP Deploy"
+name: "GitHub to FTP"
 description: "Automate deploying websites and more with this GitHub action via FTP and FTPS"
 author: "Sam Kirkland"
 inputs:
