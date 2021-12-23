@@ -20,7 +20,7 @@ jobs:
       uses: actions/checkout@v2
       
     - name: 📂 Sync files
-      uses: webitsbr/ftp-deploy@1.0.1
+      uses: webitsbr/github-to-ftp@1.0.1
       with:
         server: ${{ secrets.server }}
         server-dir: ${{ secrets.dir }}
