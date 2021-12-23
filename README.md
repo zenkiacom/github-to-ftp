@@ -20,7 +20,7 @@ jobs:
       uses: actions/checkout@v2
       
     - name: 📂 Sync files
-      uses: leandrorepos/ftp-deploy@1.0.0
+      uses: webitsbr/ftp-deploy@1.0.0
       with:
         server: ${{ secrets.server }}
         server-dir: ${{ secrets.dir }}
